@@ -1,0 +1,52 @@
+[0.030s] Invoking command in '/home/vijayvikasm/ros2_ws/build/my_cpp_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/vijayvikasm/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/vijayvikasm/ros2_ws/src/my_cpp_pkg -DCMAKE_INSTALL_PREFIX=/home/vijayvikasm/ros2_ws/install/my_cpp_pkg
+[1.540s] -- The C compiler identification is GNU 13.2.0
+[3.562s] -- The CXX compiler identification is GNU 13.2.0
+[3.781s] -- Detecting C compiler ABI info
+[4.238s] -- Detecting C compiler ABI info - done
+[4.258s] -- Check for working C compiler: /usr/bin/cc - skipped
+[4.259s] -- Detecting C compile features
+[4.281s] -- Detecting C compile features - done
+[4.323s] -- Detecting CXX compiler ABI info
+[4.582s] -- Detecting CXX compiler ABI info - done
+[4.612s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[4.613s] -- Detecting CXX compile features
+[4.616s] -- Detecting CXX compile features - done
+[4.766s] -- Found ament_cmake: 2.5.2 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[5.200s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[5.702s] -- Found rclcpp: 28.1.5 (/opt/ros/jazzy/share/rclcpp/cmake)
+[6.150s] -- Found rosidl_generator_c: 4.6.4 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[6.249s] -- Found rosidl_generator_cpp: 4.6.4 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[6.452s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[6.619s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[7.160s] -- Found rmw_implementation_cmake: 7.3.1 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[7.200s] -- Found rmw_fastrtps_cpp: 8.4.1 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[7.653s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[7.755s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[7.819s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[8.187s] -- Found ament_lint_auto: 0.17.1 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[8.690s] -- Added test 'lint_cmake' to check CMake code style
+[8.725s] -- Added test 'xmllint' to check XML markup files
+[8.769s] -- Configuring done (8.3s)
+[8.788s] -- Generating done (0.0s)
+[8.794s] -- Build files have been written to: /home/vijayvikasm/ros2_ws/build/my_cpp_pkg
+[8.820s] Invoked command in '/home/vijayvikasm/ros2_ws/build/my_cpp_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/vijayvikasm/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/vijayvikasm/ros2_ws/src/my_cpp_pkg -DCMAKE_INSTALL_PREFIX=/home/vijayvikasm/ros2_ws/install/my_cpp_pkg
+[8.824s] Invoking command in '/home/vijayvikasm/ros2_ws/build/my_cpp_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/vijayvikasm/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/vijayvikasm/ros2_ws/build/my_cpp_pkg -- -j4 -l4
+[8.900s] Invoked command in '/home/vijayvikasm/ros2_ws/build/my_cpp_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/vijayvikasm/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/vijayvikasm/ros2_ws/build/my_cpp_pkg -- -j4 -l4
+[8.957s] Invoking command in '/home/vijayvikasm/ros2_ws/build/my_cpp_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/vijayvikasm/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/vijayvikasm/ros2_ws/build/my_cpp_pkg
+[8.974s] -- Install configuration: ""
+[8.974s] -- Installing: /home/vijayvikasm/ros2_ws/install/my_cpp_pkg/share/ament_index/resource_index/package_run_dependencies/my_cpp_pkg
+[8.975s] -- Installing: /home/vijayvikasm/ros2_ws/install/my_cpp_pkg/share/ament_index/resource_index/parent_prefix_path/my_cpp_pkg
+[8.975s] -- Installing: /home/vijayvikasm/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/environment/ament_prefix_path.sh
+[8.975s] -- Installing: /home/vijayvikasm/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/environment/ament_prefix_path.dsv
+[8.976s] -- Installing: /home/vijayvikasm/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/environment/path.sh
+[8.976s] -- Installing: /home/vijayvikasm/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/environment/path.dsv
+[8.977s] -- Installing: /home/vijayvikasm/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/local_setup.bash
+[8.977s] -- Installing: /home/vijayvikasm/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/local_setup.sh
+[8.977s] -- Installing: /home/vijayvikasm/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/local_setup.zsh
+[8.978s] -- Installing: /home/vijayvikasm/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/local_setup.dsv
+[8.978s] -- Installing: /home/vijayvikasm/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/package.dsv
+[8.979s] -- Installing: /home/vijayvikasm/ros2_ws/install/my_cpp_pkg/share/ament_index/resource_index/packages/my_cpp_pkg
+[8.979s] -- Installing: /home/vijayvikasm/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/cmake/my_cpp_pkgConfig.cmake
+[8.979s] -- Installing: /home/vijayvikasm/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/cmake/my_cpp_pkgConfig-version.cmake
+[8.980s] -- Installing: /home/vijayvikasm/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/package.xml
+[8.984s] Invoked command in '/home/vijayvikasm/ros2_ws/build/my_cpp_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/vijayvikasm/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/vijayvikasm/ros2_ws/build/my_cpp_pkg

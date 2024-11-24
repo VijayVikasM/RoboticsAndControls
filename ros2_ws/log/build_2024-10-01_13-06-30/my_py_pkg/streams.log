@@ -1,0 +1,32 @@
+[5.217s] Invoking command in '/home/vijayvikasm/ros2_ws/src/my_py_pkg': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/vijayvikasm/ros2_ws/build/my_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vijayvikasm/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /home/vijayvikasm/ros2_ws/build/my_py_pkg/build install --record /home/vijayvikasm/ros2_ws/build/my_py_pkg/install.log --single-version-externally-managed install_data
+[5.803s] running egg_info
+[5.803s] creating ../../build/my_py_pkg/my_py_pkg.egg-info
+[5.846s] writing ../../build/my_py_pkg/my_py_pkg.egg-info/PKG-INFO
+[5.846s] writing dependency_links to ../../build/my_py_pkg/my_py_pkg.egg-info/dependency_links.txt
+[5.847s] writing requirements to ../../build/my_py_pkg/my_py_pkg.egg-info/requires.txt
+[5.847s] writing top-level names to ../../build/my_py_pkg/my_py_pkg.egg-info/top_level.txt
+[5.847s] writing manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[5.926s] reading manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[5.927s] writing manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[5.927s] running build
+[5.928s] running build_py
+[5.929s] creating /home/vijayvikasm/ros2_ws/build/my_py_pkg/build
+[5.929s] creating /home/vijayvikasm/ros2_ws/build/my_py_pkg/build/lib
+[5.930s] creating /home/vijayvikasm/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[5.930s] copying my_py_pkg/__init__.py -> /home/vijayvikasm/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[5.931s] running install
+[5.949s] running install_lib
+[5.989s] creating /home/vijayvikasm/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages/my_py_pkg
+[5.989s] copying /home/vijayvikasm/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/__init__.py -> /home/vijayvikasm/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages/my_py_pkg
+[5.990s] byte-compiling /home/vijayvikasm/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages/my_py_pkg/__init__.py to __init__.cpython-312.pyc
+[5.991s] running install_data
+[5.991s] creating /home/vijayvikasm/ros2_ws/install/my_py_pkg/share/ament_index
+[5.991s] creating /home/vijayvikasm/ros2_ws/install/my_py_pkg/share/ament_index/resource_index
+[5.992s] creating /home/vijayvikasm/ros2_ws/install/my_py_pkg/share/ament_index/resource_index/packages
+[5.992s] copying resource/my_py_pkg -> /home/vijayvikasm/ros2_ws/install/my_py_pkg/share/ament_index/resource_index/packages
+[5.992s] copying package.xml -> /home/vijayvikasm/ros2_ws/install/my_py_pkg/share/my_py_pkg
+[5.992s] running install_egg_info
+[6.038s] Copying ../../build/my_py_pkg/my_py_pkg.egg-info to /home/vijayvikasm/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages/my_py_pkg-0.0.0-py3.12.egg-info
+[6.040s] running install_scripts
+[6.314s] writing list of installed files to '/home/vijayvikasm/ros2_ws/build/my_py_pkg/install.log'
+[6.373s] Invoked command in '/home/vijayvikasm/ros2_ws/src/my_py_pkg' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/vijayvikasm/ros2_ws/build/my_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vijayvikasm/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /home/vijayvikasm/ros2_ws/build/my_py_pkg/build install --record /home/vijayvikasm/ros2_ws/build/my_py_pkg/install.log --single-version-externally-managed install_data
