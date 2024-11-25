@@ -1,0 +1,35 @@
+[5.876s] Invoking command in '/home/vijayvikasm/ros2_ws/build/turtlesim_catch_them_all': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/vijayvikasm/ros2_ws/build/turtlesim_catch_them_all/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vijayvikasm/ros2_ws/install/turtlesim_catch_them_all/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/vijayvikasm/ros2_ws/build/turtlesim_catch_them_all/build --no-deps symlink_data
+[6.947s] running develop
+[6.963s] /usr/lib/python3/dist-packages/setuptools/command/develop.py:40: EasyInstallDeprecationWarning: easy_install command is deprecated.
+[6.963s] !!
+[6.963s] 
+[6.964s]         ********************************************************************************
+[6.964s]         Please avoid running ``setup.py`` and ``easy_install``.
+[6.964s]         Instead, use pypa/build, pypa/installer or other
+[6.964s]         standards-based tools.
+[6.965s] 
+[6.965s]         See https://github.com/pypa/setuptools/issues/917 for details.
+[6.965s]         ********************************************************************************
+[6.965s] 
+[6.965s] !!
+[6.966s]   easy_install.initialize_options(self)
+[7.512s] running egg_info
+[7.512s] creating turtlesim_catch_them_all.egg-info
+[7.564s] writing turtlesim_catch_them_all.egg-info/PKG-INFO
+[7.564s] writing dependency_links to turtlesim_catch_them_all.egg-info/dependency_links.txt
+[7.564s] writing requirements to turtlesim_catch_them_all.egg-info/requires.txt
+[7.566s] writing top-level names to turtlesim_catch_them_all.egg-info/top_level.txt
+[7.567s] writing manifest file 'turtlesim_catch_them_all.egg-info/SOURCES.txt'
+[7.679s] reading manifest file 'turtlesim_catch_them_all.egg-info/SOURCES.txt'
+[7.681s] writing manifest file 'turtlesim_catch_them_all.egg-info/SOURCES.txt'
+[7.739s] running build_ext
+[7.740s] Creating /home/vijayvikasm/ros2_ws/install/turtlesim_catch_them_all/lib/python3.12/site-packages/turtlesim-catch-them-all.egg-link (link to .)
+[7.741s] 
+[7.741s] Installed /home/vijayvikasm/ros2_ws/build/turtlesim_catch_them_all
+[7.741s] running symlink_data
+[7.742s] creating /home/vijayvikasm/ros2_ws/install/turtlesim_catch_them_all/share/ament_index
+[7.742s] creating /home/vijayvikasm/ros2_ws/install/turtlesim_catch_them_all/share/ament_index/resource_index
+[7.742s] creating /home/vijayvikasm/ros2_ws/install/turtlesim_catch_them_all/share/ament_index/resource_index/packages
+[7.743s] symbolically linking /home/vijayvikasm/ros2_ws/build/turtlesim_catch_them_all/resource/turtlesim_catch_them_all -> /home/vijayvikasm/ros2_ws/install/turtlesim_catch_them_all/share/ament_index/resource_index/packages
+[7.743s] symbolically linking /home/vijayvikasm/ros2_ws/build/turtlesim_catch_them_all/package.xml -> /home/vijayvikasm/ros2_ws/install/turtlesim_catch_them_all/share/turtlesim_catch_them_all
+[7.825s] Invoked command in '/home/vijayvikasm/ros2_ws/build/turtlesim_catch_them_all' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/vijayvikasm/ros2_ws/build/turtlesim_catch_them_all/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vijayvikasm/ros2_ws/install/turtlesim_catch_them_all/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/vijayvikasm/ros2_ws/build/turtlesim_catch_them_all/build --no-deps symlink_data

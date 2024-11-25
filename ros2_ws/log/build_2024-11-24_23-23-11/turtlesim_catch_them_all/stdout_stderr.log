@@ -1,0 +1,33 @@
+running develop
+/usr/lib/python3/dist-packages/setuptools/command/develop.py:40: EasyInstallDeprecationWarning: easy_install command is deprecated.
+!!
+
+        ********************************************************************************
+        Please avoid running ``setup.py`` and ``easy_install``.
+        Instead, use pypa/build, pypa/installer or other
+        standards-based tools.
+
+        See https://github.com/pypa/setuptools/issues/917 for details.
+        ********************************************************************************
+
+!!
+  easy_install.initialize_options(self)
+running egg_info
+creating turtlesim_catch_them_all.egg-info
+writing turtlesim_catch_them_all.egg-info/PKG-INFO
+writing dependency_links to turtlesim_catch_them_all.egg-info/dependency_links.txt
+writing requirements to turtlesim_catch_them_all.egg-info/requires.txt
+writing top-level names to turtlesim_catch_them_all.egg-info/top_level.txt
+writing manifest file 'turtlesim_catch_them_all.egg-info/SOURCES.txt'
+reading manifest file 'turtlesim_catch_them_all.egg-info/SOURCES.txt'
+writing manifest file 'turtlesim_catch_them_all.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/vijayvikasm/ros2_ws/install/turtlesim_catch_them_all/lib/python3.12/site-packages/turtlesim-catch-them-all.egg-link (link to .)
+
+Installed /home/vijayvikasm/ros2_ws/build/turtlesim_catch_them_all
+running symlink_data
+creating /home/vijayvikasm/ros2_ws/install/turtlesim_catch_them_all/share/ament_index
+creating /home/vijayvikasm/ros2_ws/install/turtlesim_catch_them_all/share/ament_index/resource_index
+creating /home/vijayvikasm/ros2_ws/install/turtlesim_catch_them_all/share/ament_index/resource_index/packages
+symbolically linking /home/vijayvikasm/ros2_ws/build/turtlesim_catch_them_all/resource/turtlesim_catch_them_all -> /home/vijayvikasm/ros2_ws/install/turtlesim_catch_them_all/share/ament_index/resource_index/packages
+symbolically linking /home/vijayvikasm/ros2_ws/build/turtlesim_catch_them_all/package.xml -> /home/vijayvikasm/ros2_ws/install/turtlesim_catch_them_all/share/turtlesim_catch_them_all

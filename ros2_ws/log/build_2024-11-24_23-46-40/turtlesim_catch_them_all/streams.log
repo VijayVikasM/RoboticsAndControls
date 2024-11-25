@@ -1,0 +1,45 @@
+[2.268s] Invoking command in '/home/vijayvikasm/ros2_ws/build/turtlesim_catch_them_all': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/vijayvikasm/ros2_ws/build/turtlesim_catch_them_all/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vijayvikasm/ros2_ws/install/turtlesim_catch_them_all/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/vijayvikasm/ros2_ws/build/turtlesim_catch_them_all/build --no-deps symlink_data
+[2.607s] /usr/lib/python3/dist-packages/setuptools/dist.py:744: SetuptoolsDeprecationWarning: Invalid dash-separated options
+[2.608s] !!
+[2.608s] 
+[2.608s]         ********************************************************************************
+[2.609s]         Usage of dash-separated 'script-dir' will not be supported in future
+[2.609s]         versions. Please use the underscore name 'script_dir' instead.
+[2.609s] 
+[2.609s]         This deprecation is overdue, please update your project and remove deprecated
+[2.609s]         calls to avoid build errors in the future.
+[2.610s] 
+[2.610s]         See https://setuptools.pypa.io/en/latest/userguide/declarative_config.html for details.
+[2.610s]         ********************************************************************************
+[2.610s] 
+[2.610s] !!
+[2.610s]   opt = self.warn_dash_deprecation(opt, section)
+[3.132s] running develop
+[3.132s] /usr/lib/python3/dist-packages/setuptools/command/develop.py:40: EasyInstallDeprecationWarning: easy_install command is deprecated.
+[3.132s] !!
+[3.132s] 
+[3.133s]         ********************************************************************************
+[3.133s]         Please avoid running ``setup.py`` and ``easy_install``.
+[3.133s]         Instead, use pypa/build, pypa/installer or other
+[3.133s]         standards-based tools.
+[3.134s] 
+[3.134s]         See https://github.com/pypa/setuptools/issues/917 for details.
+[3.134s]         ********************************************************************************
+[3.134s] 
+[3.135s] !!
+[3.135s]   easy_install.initialize_options(self)
+[3.667s] running egg_info
+[3.720s] writing turtlesim_catch_them_all.egg-info/PKG-INFO
+[3.720s] writing dependency_links to turtlesim_catch_them_all.egg-info/dependency_links.txt
+[3.721s] writing entry points to turtlesim_catch_them_all.egg-info/entry_points.txt
+[3.722s] writing requirements to turtlesim_catch_them_all.egg-info/requires.txt
+[3.723s] writing top-level names to turtlesim_catch_them_all.egg-info/top_level.txt
+[3.831s] reading manifest file 'turtlesim_catch_them_all.egg-info/SOURCES.txt'
+[3.833s] writing manifest file 'turtlesim_catch_them_all.egg-info/SOURCES.txt'
+[3.887s] running build_ext
+[3.887s] Creating /home/vijayvikasm/ros2_ws/install/turtlesim_catch_them_all/lib/python3.12/site-packages/turtlesim-catch-them-all.egg-link (link to .)
+[3.890s] Installing turtlesim_controller script to /home/vijayvikasm/ros2_ws/install/turtlesim_catch_them_all/lib/turtlesim_catch_them_all
+[3.891s] 
+[3.893s] Installed /home/vijayvikasm/ros2_ws/build/turtlesim_catch_them_all
+[3.893s] running symlink_data
+[3.975s] Invoked command in '/home/vijayvikasm/ros2_ws/build/turtlesim_catch_them_all' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/vijayvikasm/ros2_ws/build/turtlesim_catch_them_all/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vijayvikasm/ros2_ws/install/turtlesim_catch_them_all/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/vijayvikasm/ros2_ws/build/turtlesim_catch_them_all/build --no-deps symlink_data

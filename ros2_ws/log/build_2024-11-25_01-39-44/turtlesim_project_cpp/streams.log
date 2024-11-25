@@ -1,0 +1,62 @@
+[0.023s] Invoking command in '/home/vijayvikasm/ros2_ws/build/turtlesim_project_cpp': AMENT_PREFIX_PATH=/home/vijayvikasm/ros2_ws/install/my_robot_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/vijayvikasm/ros2_ws/install/my_robot_interfaces:/home/vijayvikasm/ros2_ws/install/my_cpp_pkg:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/home/vijayvikasm/ros2_ws/install/turtlesim_catch_them_all:/home/vijayvikasm/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/vijayvikasm/ros2_ws/install/my_robot_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/vijayvikasm/ros2_ws/install/my_robot_interfaces/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/cmake /home/vijayvikasm/ros2_ws/src/turtlesim_project_cpp -DCMAKE_INSTALL_PREFIX=/home/vijayvikasm/ros2_ws/install/turtlesim_project_cpp
+[0.136s] -- The C compiler identification is GNU 13.2.0
+[0.276s] -- The CXX compiler identification is GNU 13.2.0
+[0.304s] -- Detecting C compiler ABI info
+[0.466s] -- Detecting C compiler ABI info - done
+[0.503s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.508s] -- Detecting C compile features
+[0.509s] -- Detecting C compile features - done
+[0.532s] -- Detecting CXX compiler ABI info
+[0.736s] -- Detecting CXX compiler ABI info - done
+[0.760s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.761s] -- Detecting CXX compile features
+[0.763s] -- Detecting CXX compile features - done
+[0.771s] -- Found ament_cmake: 2.5.2 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.069s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.327s] -- Found rclcpp: 28.1.5 (/opt/ros/jazzy/share/rclcpp/cmake)
+[1.423s] -- Found rosidl_generator_c: 4.6.4 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[1.454s] -- Found rosidl_generator_cpp: 4.6.4 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[1.488s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.526s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.909s] -- Found rmw_implementation_cmake: 7.3.1 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[1.950s] -- Found rmw_fastrtps_cpp: 8.4.1 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[2.514s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[2.617s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[2.698s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[3.040s] -- Found my_robot_interfaces: 0.0.0 (/home/vijayvikasm/ros2_ws/install/my_robot_interfaces/share/my_robot_interfaces/cmake)
+[3.112s] -- Found turtlesim: 1.8.3 (/opt/ros/jazzy/share/turtlesim/cmake)
+[3.364s] -- Found geometry_msgs: 5.3.5 (/opt/ros/jazzy/share/geometry_msgs/cmake)
+[3.687s] -- Configuring done (3.6s)
+[3.723s] -- Generating done (0.0s)
+[3.726s] -- Build files have been written to: /home/vijayvikasm/ros2_ws/build/turtlesim_project_cpp
+[3.744s] Invoked command in '/home/vijayvikasm/ros2_ws/build/turtlesim_project_cpp' returned '0': AMENT_PREFIX_PATH=/home/vijayvikasm/ros2_ws/install/my_robot_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/vijayvikasm/ros2_ws/install/my_robot_interfaces:/home/vijayvikasm/ros2_ws/install/my_cpp_pkg:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/home/vijayvikasm/ros2_ws/install/turtlesim_catch_them_all:/home/vijayvikasm/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/vijayvikasm/ros2_ws/install/my_robot_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/vijayvikasm/ros2_ws/install/my_robot_interfaces/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/cmake /home/vijayvikasm/ros2_ws/src/turtlesim_project_cpp -DCMAKE_INSTALL_PREFIX=/home/vijayvikasm/ros2_ws/install/turtlesim_project_cpp
+[3.747s] Invoking command in '/home/vijayvikasm/ros2_ws/build/turtlesim_project_cpp': AMENT_PREFIX_PATH=/home/vijayvikasm/ros2_ws/install/my_robot_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/vijayvikasm/ros2_ws/install/my_robot_interfaces:/home/vijayvikasm/ros2_ws/install/my_cpp_pkg:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/home/vijayvikasm/ros2_ws/install/turtlesim_catch_them_all:/home/vijayvikasm/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/vijayvikasm/ros2_ws/install/my_robot_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/vijayvikasm/ros2_ws/install/my_robot_interfaces/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/vijayvikasm/ros2_ws/build/turtlesim_project_cpp -- -j4 -l4
+[3.840s] [ 50%] [32mBuilding CXX object CMakeFiles/turtle_spawner.dir/src/turtle_spawner.cpp.o[0m
+[3.840s] [ 50%] [32mBuilding CXX object CMakeFiles/turtle_controller.dir/src/turtle_controller.cpp.o[0m
+[24.403s] [ 75%] [32m[1mLinking CXX executable turtle_spawner[0m
+[25.316s] [ 75%] Built target turtle_spawner
+[35.999s] [100%] [32m[1mLinking CXX executable turtle_controller[0m
+[37.067s] [100%] Built target turtle_controller
+[37.085s] Invoked command in '/home/vijayvikasm/ros2_ws/build/turtlesim_project_cpp' returned '0': AMENT_PREFIX_PATH=/home/vijayvikasm/ros2_ws/install/my_robot_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/vijayvikasm/ros2_ws/install/my_robot_interfaces:/home/vijayvikasm/ros2_ws/install/my_cpp_pkg:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/home/vijayvikasm/ros2_ws/install/turtlesim_catch_them_all:/home/vijayvikasm/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/vijayvikasm/ros2_ws/install/my_robot_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/vijayvikasm/ros2_ws/install/my_robot_interfaces/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/vijayvikasm/ros2_ws/build/turtlesim_project_cpp -- -j4 -l4
+[37.133s] Invoking command in '/home/vijayvikasm/ros2_ws/build/turtlesim_project_cpp': AMENT_PREFIX_PATH=/home/vijayvikasm/ros2_ws/install/my_robot_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/vijayvikasm/ros2_ws/install/my_robot_interfaces:/home/vijayvikasm/ros2_ws/install/my_cpp_pkg:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/home/vijayvikasm/ros2_ws/install/turtlesim_catch_them_all:/home/vijayvikasm/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/vijayvikasm/ros2_ws/install/my_robot_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/vijayvikasm/ros2_ws/install/my_robot_interfaces/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/vijayvikasm/ros2_ws/build/turtlesim_project_cpp
+[37.150s] -- Install configuration: ""
+[37.150s] -- Installing: /home/vijayvikasm/ros2_ws/install/turtlesim_project_cpp/lib/turtlesim_project_cpp/turtle_controller
+[37.162s] -- Set non-toolchain portion of runtime path of "/home/vijayvikasm/ros2_ws/install/turtlesim_project_cpp/lib/turtlesim_project_cpp/turtle_controller" to ""
+[37.163s] -- Installing: /home/vijayvikasm/ros2_ws/install/turtlesim_project_cpp/lib/turtlesim_project_cpp/turtle_spawner
+[37.167s] -- Set non-toolchain portion of runtime path of "/home/vijayvikasm/ros2_ws/install/turtlesim_project_cpp/lib/turtlesim_project_cpp/turtle_spawner" to ""
+[37.168s] -- Installing: /home/vijayvikasm/ros2_ws/install/turtlesim_project_cpp/share/ament_index/resource_index/package_run_dependencies/turtlesim_project_cpp
+[37.169s] -- Installing: /home/vijayvikasm/ros2_ws/install/turtlesim_project_cpp/share/ament_index/resource_index/parent_prefix_path/turtlesim_project_cpp
+[37.169s] -- Installing: /home/vijayvikasm/ros2_ws/install/turtlesim_project_cpp/share/turtlesim_project_cpp/environment/ament_prefix_path.sh
+[37.169s] -- Installing: /home/vijayvikasm/ros2_ws/install/turtlesim_project_cpp/share/turtlesim_project_cpp/environment/ament_prefix_path.dsv
+[37.170s] -- Installing: /home/vijayvikasm/ros2_ws/install/turtlesim_project_cpp/share/turtlesim_project_cpp/environment/path.sh
+[37.170s] -- Installing: /home/vijayvikasm/ros2_ws/install/turtlesim_project_cpp/share/turtlesim_project_cpp/environment/path.dsv
+[37.171s] -- Installing: /home/vijayvikasm/ros2_ws/install/turtlesim_project_cpp/share/turtlesim_project_cpp/local_setup.bash
+[37.171s] -- Installing: /home/vijayvikasm/ros2_ws/install/turtlesim_project_cpp/share/turtlesim_project_cpp/local_setup.sh
+[37.171s] -- Installing: /home/vijayvikasm/ros2_ws/install/turtlesim_project_cpp/share/turtlesim_project_cpp/local_setup.zsh
+[37.172s] -- Installing: /home/vijayvikasm/ros2_ws/install/turtlesim_project_cpp/share/turtlesim_project_cpp/local_setup.dsv
+[37.172s] -- Installing: /home/vijayvikasm/ros2_ws/install/turtlesim_project_cpp/share/turtlesim_project_cpp/package.dsv
+[37.173s] -- Installing: /home/vijayvikasm/ros2_ws/install/turtlesim_project_cpp/share/ament_index/resource_index/packages/turtlesim_project_cpp
+[37.173s] -- Installing: /home/vijayvikasm/ros2_ws/install/turtlesim_project_cpp/share/turtlesim_project_cpp/cmake/turtlesim_project_cppConfig.cmake
+[37.173s] -- Installing: /home/vijayvikasm/ros2_ws/install/turtlesim_project_cpp/share/turtlesim_project_cpp/cmake/turtlesim_project_cppConfig-version.cmake
+[37.174s] -- Installing: /home/vijayvikasm/ros2_ws/install/turtlesim_project_cpp/share/turtlesim_project_cpp/package.xml
+[37.176s] Invoked command in '/home/vijayvikasm/ros2_ws/build/turtlesim_project_cpp' returned '0': AMENT_PREFIX_PATH=/home/vijayvikasm/ros2_ws/install/my_robot_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/vijayvikasm/ros2_ws/install/my_robot_interfaces:/home/vijayvikasm/ros2_ws/install/my_cpp_pkg:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/home/vijayvikasm/ros2_ws/install/turtlesim_catch_them_all:/home/vijayvikasm/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/vijayvikasm/ros2_ws/install/my_robot_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/vijayvikasm/ros2_ws/install/my_robot_interfaces/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/vijayvikasm/ros2_ws/build/turtlesim_project_cpp

@@ -1,0 +1,83 @@
+[1.878s] Invoking command in '/home/vijayvikasm/ros2_ws/build/turtlesim_catch_them_all': AMENT_PREFIX_PATH=/home/vijayvikasm/ros2_ws/install/my_robot_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/vijayvikasm/ros2_ws/install/my_robot_interfaces:${CMAKE_PREFIX_PATH} DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/vijayvikasm/ros2_ws/install/my_robot_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/vijayvikasm/ros2_ws/build/turtlesim_catch_them_all/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vijayvikasm/ros2_ws/install/turtlesim_catch_them_all/lib/python3.12/site-packages:/home/vijayvikasm/ros2_ws/install/my_robot_interfaces/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/vijayvikasm/ros2_ws/build/turtlesim_catch_them_all/build
+[2.149s] /usr/lib/python3/dist-packages/setuptools/dist.py:744: SetuptoolsDeprecationWarning: Invalid dash-separated options
+[2.149s] !!
+[2.149s] 
+[2.150s]         ********************************************************************************
+[2.150s]         Usage of dash-separated 'script-dir' will not be supported in future
+[2.150s]         versions. Please use the underscore name 'script_dir' instead.
+[2.151s] 
+[2.151s]         This deprecation is overdue, please update your project and remove deprecated
+[2.151s]         calls to avoid build errors in the future.
+[2.151s] 
+[2.152s]         See https://setuptools.pypa.io/en/latest/userguide/declarative_config.html for details.
+[2.152s]         ********************************************************************************
+[2.152s] 
+[2.152s] !!
+[2.153s]   opt = self.warn_dash_deprecation(opt, section)
+[2.528s] running develop
+[2.528s] /usr/lib/python3/dist-packages/setuptools/command/develop.py:40: EasyInstallDeprecationWarning: easy_install command is deprecated.
+[2.529s] !!
+[2.529s] 
+[2.529s]         ********************************************************************************
+[2.530s]         Please avoid running ``setup.py`` and ``easy_install``.
+[2.530s]         Instead, use pypa/build, pypa/installer or other
+[2.530s]         standards-based tools.
+[2.530s] 
+[2.531s]         See https://github.com/pypa/setuptools/issues/917 for details.
+[2.531s]         ********************************************************************************
+[2.531s] 
+[2.531s] !!
+[2.532s]   easy_install.initialize_options(self)
+[2.974s] Removing /home/vijayvikasm/ros2_ws/install/turtlesim_catch_them_all/lib/python3.12/site-packages/turtlesim-catch-them-all.egg-link (link to .)
+[3.038s] Invoked command in '/home/vijayvikasm/ros2_ws/build/turtlesim_catch_them_all' returned '0': AMENT_PREFIX_PATH=/home/vijayvikasm/ros2_ws/install/my_robot_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/vijayvikasm/ros2_ws/install/my_robot_interfaces:${CMAKE_PREFIX_PATH} DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/vijayvikasm/ros2_ws/install/my_robot_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/vijayvikasm/ros2_ws/build/turtlesim_catch_them_all/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vijayvikasm/ros2_ws/install/turtlesim_catch_them_all/lib/python3.12/site-packages:/home/vijayvikasm/ros2_ws/install/my_robot_interfaces/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/vijayvikasm/ros2_ws/build/turtlesim_catch_them_all/build
+[3.040s] Invoking command in '/home/vijayvikasm/ros2_ws/src/turtlesim_catch_them_all': AMENT_PREFIX_PATH=/home/vijayvikasm/ros2_ws/install/my_robot_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/vijayvikasm/ros2_ws/install/my_robot_interfaces:${CMAKE_PREFIX_PATH} DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/vijayvikasm/ros2_ws/install/my_robot_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/vijayvikasm/ros2_ws/build/turtlesim_catch_them_all/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vijayvikasm/ros2_ws/install/turtlesim_catch_them_all/lib/python3.12/site-packages:/home/vijayvikasm/ros2_ws/install/my_robot_interfaces/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/turtlesim_catch_them_all build --build-base /home/vijayvikasm/ros2_ws/build/turtlesim_catch_them_all/build install --record /home/vijayvikasm/ros2_ws/build/turtlesim_catch_them_all/install.log --install-scripts $base/lib/turtlesim_catch_them_all --single-version-externally-managed install_data --force
+[3.294s] /usr/lib/python3/dist-packages/setuptools/dist.py:744: SetuptoolsDeprecationWarning: Invalid dash-separated options
+[3.295s] !!
+[3.295s] 
+[3.295s]         ********************************************************************************
+[3.295s]         Usage of dash-separated 'script-dir' will not be supported in future
+[3.295s]         versions. Please use the underscore name 'script_dir' instead.
+[3.295s] 
+[3.295s]         This deprecation is overdue, please update your project and remove deprecated
+[3.296s]         calls to avoid build errors in the future.
+[3.296s] 
+[3.296s]         See https://setuptools.pypa.io/en/latest/userguide/declarative_config.html for details.
+[3.296s]         ********************************************************************************
+[3.296s] 
+[3.296s] !!
+[3.296s]   opt = self.warn_dash_deprecation(opt, section)
+[3.598s] running egg_info
+[3.642s] writing ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/PKG-INFO
+[3.643s] writing dependency_links to ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/dependency_links.txt
+[3.643s] writing entry points to ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/entry_points.txt
+[3.644s] writing requirements to ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/requires.txt
+[3.644s] writing top-level names to ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/top_level.txt
+[3.730s] reading manifest file '../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/SOURCES.txt'
+[3.732s] writing manifest file '../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/SOURCES.txt'
+[3.732s] running build
+[3.732s] running build_py
+[3.733s] creating /home/vijayvikasm/ros2_ws/build/turtlesim_catch_them_all/build
+[3.733s] creating /home/vijayvikasm/ros2_ws/build/turtlesim_catch_them_all/build/lib
+[3.733s] creating /home/vijayvikasm/ros2_ws/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all
+[3.734s] copying turtlesim_catch_them_all/turtle_controller.py -> /home/vijayvikasm/ros2_ws/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all
+[3.734s] copying turtlesim_catch_them_all/__init__.py -> /home/vijayvikasm/ros2_ws/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all
+[3.734s] copying turtlesim_catch_them_all/turtle_spawner.py -> /home/vijayvikasm/ros2_ws/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all
+[3.735s] running install
+[3.747s] running install_lib
+[3.789s] creating /home/vijayvikasm/ros2_ws/install/turtlesim_catch_them_all/lib/python3.12/site-packages/turtlesim_catch_them_all
+[3.789s] copying /home/vijayvikasm/ros2_ws/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all/turtle_controller.py -> /home/vijayvikasm/ros2_ws/install/turtlesim_catch_them_all/lib/python3.12/site-packages/turtlesim_catch_them_all
+[3.790s] copying /home/vijayvikasm/ros2_ws/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all/__init__.py -> /home/vijayvikasm/ros2_ws/install/turtlesim_catch_them_all/lib/python3.12/site-packages/turtlesim_catch_them_all
+[3.790s] copying /home/vijayvikasm/ros2_ws/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all/turtle_spawner.py -> /home/vijayvikasm/ros2_ws/install/turtlesim_catch_them_all/lib/python3.12/site-packages/turtlesim_catch_them_all
+[3.791s] byte-compiling /home/vijayvikasm/ros2_ws/install/turtlesim_catch_them_all/lib/python3.12/site-packages/turtlesim_catch_them_all/turtle_controller.py to turtle_controller.cpython-312.pyc
+[3.793s] byte-compiling /home/vijayvikasm/ros2_ws/install/turtlesim_catch_them_all/lib/python3.12/site-packages/turtlesim_catch_them_all/__init__.py to __init__.cpython-312.pyc
+[3.794s] byte-compiling /home/vijayvikasm/ros2_ws/install/turtlesim_catch_them_all/lib/python3.12/site-packages/turtlesim_catch_them_all/turtle_spawner.py to turtle_spawner.cpython-312.pyc
+[3.796s] running install_data
+[3.797s] copying resource/turtlesim_catch_them_all -> /home/vijayvikasm/ros2_ws/install/turtlesim_catch_them_all/share/ament_index/resource_index/packages
+[3.797s] copying package.xml -> /home/vijayvikasm/ros2_ws/install/turtlesim_catch_them_all/share/turtlesim_catch_them_all
+[3.797s] running install_egg_info
+[3.841s] Copying ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info to /home/vijayvikasm/ros2_ws/install/turtlesim_catch_them_all/lib/python3.12/site-packages/turtlesim_catch_them_all-0.0.0-py3.12.egg-info
+[3.843s] running install_scripts
+[4.129s] Installing turtle_spawner script to /home/vijayvikasm/ros2_ws/install/turtlesim_catch_them_all/lib/turtlesim_catch_them_all
+[4.130s] Installing turtlesim_controller script to /home/vijayvikasm/ros2_ws/install/turtlesim_catch_them_all/lib/turtlesim_catch_them_all
+[4.131s] writing list of installed files to '/home/vijayvikasm/ros2_ws/build/turtlesim_catch_them_all/install.log'
+[4.189s] Invoked command in '/home/vijayvikasm/ros2_ws/src/turtlesim_catch_them_all' returned '0': AMENT_PREFIX_PATH=/home/vijayvikasm/ros2_ws/install/my_robot_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/vijayvikasm/ros2_ws/install/my_robot_interfaces:${CMAKE_PREFIX_PATH} DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/vijayvikasm/ros2_ws/install/my_robot_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/vijayvikasm/ros2_ws/build/turtlesim_catch_them_all/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vijayvikasm/ros2_ws/install/turtlesim_catch_them_all/lib/python3.12/site-packages:/home/vijayvikasm/ros2_ws/install/my_robot_interfaces/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/turtlesim_catch_them_all build --build-base /home/vijayvikasm/ros2_ws/build/turtlesim_catch_them_all/build install --record /home/vijayvikasm/ros2_ws/build/turtlesim_catch_them_all/install.log --install-scripts $base/lib/turtlesim_catch_them_all --single-version-externally-managed install_data --force
